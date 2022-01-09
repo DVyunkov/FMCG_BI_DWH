@@ -1,6 +1,0 @@
-CREATE SCHEMA [KonturEdi]
-    AUTHORIZATION [dbo];
-
-
-GO
-

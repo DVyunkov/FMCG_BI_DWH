@@ -1,0 +1,10 @@
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\bin\Debug\DP_CDWH.dacpac
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\bin\Debug\DP_CDWH.dll
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\bin\Debug\DP_CDWH.pdb
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\obj\Debug\DP_CDWH.sqlproj.AssemblyReference.cache
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\obj\Debug\Model.xml
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\obj\Debug\refactor.xml
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\obj\Debug\postdeploy.sql
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\obj\Debug\predeploy.sql
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\obj\Debug\DP_CDWH.dll
+c:\Source\GitHub\FMCG_BI_DWH\DP_CDWH\obj\Debug\DP_CDWH.pdb
